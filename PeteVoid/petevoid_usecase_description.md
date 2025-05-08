@@ -1,9 +1,3 @@
-[ 결제 기능 UseCase Description ]
-
-| Actor Action                 | System Response                                                     |
-| ---------------------------- | ------------------------------------------------------------------- |
-| 1. 회원이 자전거를 반납한다. | 2. 시스템은 대여 시간을 계산하여 요금을 산정하고 자동으로 결제한다. |
-
 [ 요금 조회 기능 UseCase Description ]
 
 | Actor Action                         | System Response                                                |
