@@ -1,6 +1,6 @@
 # Use Case Description
 
-### 과거 대여 기록 조회
+### 이용 내역 조회
 
 | **Actor Action** | **System Response** |
 | --- | --- |
