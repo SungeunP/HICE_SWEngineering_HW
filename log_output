@@ -1,0 +1,131 @@
+[Minjae Son] Fri May 9 13:10:59 2025 +0900 Merge pull request #41 from SungeunP/PeteVoid e042e3d
+[SYAAINN] Fri May 9 13:05:32 2025 +0900 docs : 오타 수정 0725378
+[SYAAINN] Fri May 9 13:00:49 2025 +0900 docs : 리뷰 사항 반영 e830cae
+[SYAAINN] Fri May 9 13:00:08 2025 +0900 docs : 리뷰 사항 반영 806dd5d
+[SYAAINN] Fri May 9 12:58:16 2025 +0900 docs : 리뷰 사항 반영 8b4b27b
+[SYAAINN] Fri May 9 12:54:31 2025 +0900 docs : 리뷰 사항 반영 ef10924
+[void_pete] Fri May 9 11:41:07 2025 +0900 docs : 전체 requirement list 제출 word 파일 생성 306b175
+[void_pete] Fri May 9 11:00:24 2025 +0900 docs: 전체 requirement_list.md 업로드 2e7b6d9
+[SungeunP] Fri May 9 03:55:34 2025 +0900 Merge pull request #38 from SungeunP/SungeunP 967a3b1
+[sungeunp] Fri May 9 03:46:07 2025 +0900 docs: update wording b9b047b
+[SungeunP] Fri May 9 01:01:02 2025 +0900 Merge pull request #35 from SungeunP/SungeunP c9354a1
+[YoonJu Ham] Fri May 9 00:59:37 2025 +0900 Merge pull request #32 from SungeunP/ohhamma a8327c8
+[Minjae Son] Fri May 9 00:59:08 2025 +0900 Merge pull request #31 from SungeunP/syaainn fc7cc1f
+[ohhamma] Fri May 9 00:30:01 2025 +0900 docs: 통합되기 전 문서 삭제 5180f84
+[SungeunP] Fri May 9 00:27:19 2025 +0900 Merge pull request #26 from SungeunP/docs/22-bike-rental-and-reservation 20f0500
+[ohhamma] Fri May 9 00:26:46 2025 +0900 docs: 통합된 use case description 작성 4d86602
+[SungeunP] Fri May 9 00:26:45 2025 +0900 Merge pull request #24 from SungeunP/20-rental-center-management d408294
+[ohhamma] Fri May 9 00:26:33 2025 +0900 docs: 통합된 requirement list 작성 ee7e214
+[SungeunP] Fri May 9 00:25:26 2025 +0900 Merge pull request #25 from SungeunP/docs/21-search-rental-center ddd60f0
+[kimminchang] Fri May 9 00:25:18 2025 +0900 Merge pull request #30 from SungeunP/PeteVoid 2a96ab9
+[sungeunp] Fri May 9 00:11:40 2025 +0900 Update requirement list, use case description 02679f2
+[sungeunp] Thu May 8 23:44:18 2025 +0900 Update use case description 533eca0
+[void_pete] Thu May 8 23:41:01 2025 +0900 chore : usecase description 오타 수정 2f4a4d6
+[YoonJu Ham] Thu May 8 23:33:32 2025 +0900 Merge pull request #23 from SungeunP/docs/3-usage-history 230e7b9
+[ohhamma] Thu May 8 23:33:06 2025 +0900 refactor: use case 이름 변경 47162f3
+[ohhamma] Thu May 8 23:27:04 2025 +0900 refactor: use case description 피드백 반영 92a3a9c
+[ohhamma] Thu May 8 23:26:30 2025 +0900 refactor: requirement list 피드백 반영 011ee9b
+[YoonJu Ham] Thu May 8 23:21:40 2025 +0900 Merge pull request #19 from SungeunP/docs/2-bicycle-reservation 715cfec
+[kimminchang] Thu May 8 23:21:02 2025 +0900 Merge pull request #18 from SungeunP/docs/10-statistics fce747f
+[kimminchang] Thu May 8 23:20:53 2025 +0900 Merge branch 'PeteVoid' into docs/10-statistics 2019103
+[ohhamma] Thu May 8 23:20:01 2025 +0900 refactor: use case description 피드백 반영 f0abb8b
+[ohhamma] Thu May 8 23:19:22 2025 +0900 refactor: reqiurement list 피드백 반영 1e4a78b
+[kimminchang] Thu May 8 23:18:59 2025 +0900 Merge pull request #17 from SungeunP/docs/9-payment-info 9882c95
+[kimminchang] Thu May 8 23:18:51 2025 +0900 Merge branch 'PeteVoid' into docs/9-payment-info 8fe4df7
+[kimminchang] Thu May 8 23:17:26 2025 +0900 Merge pull request #16 from SungeunP/docs/8-return-and-reserve 6ccc843
+[kimminchang] Thu May 8 23:16:57 2025 +0900 Merge branch 'PeteVoid' into docs/8-return-and-reserve 2bee245
+[YoonJu Ham] Thu May 8 23:15:24 2025 +0900 Merge pull request #15 from SungeunP/docs/1-bicycle-crd 89d52b3
+[kimminchang] Thu May 8 23:14:48 2025 +0900 Merge pull request #14 from SungeunP/docs/7-rental-info c0d8b97
+[ohhamma] Thu May 8 23:02:31 2025 +0900 refactor: use case description 피드백 반영 53a48b5
+[sungeunp] Thu May 8 23:01:46 2025 +0900 Update use case diagram 5384b6f
+[ohhamma] Thu May 8 23:01:43 2025 +0900 refactor: requirement list 피드백 반영 e609a32
+[void_pete] Thu May 8 22:53:22 2025 +0900 factor : 결제 및 요금 조회 기능 수정, 결제 기능 제거 67528d9
+[void_pete] Thu May 8 22:50:23 2025 +0900 factor : 통계 기능 최종 수정 3b0930d
+[sungeunp] Thu May 8 22:43:17 2025 +0900 Update wording e85a7f7
+[void_pete] Thu May 8 22:42:28 2025 +0900 ㅁㅁㄴㅇㄹㄴㅁㅇㄹ 1517245
+[sungeunp] Thu May 8 22:31:16 2025 +0900 Update use case diagram (wording) 961f567
+[Minjae Son] Thu May 8 21:55:12 2025 +0900 Merge pull request #13 from SungeunP/docs/6-login-logout c7089b0
+[Minjae Son] Thu May 8 21:55:04 2025 +0900 Merge branch 'syaainn' into docs/6-login-logout ec4ec06
+[sungeunp] Thu May 8 21:54:39 2025 +0900 Update use case diagram - to Verb bfefd53
+[SYAAINN] Thu May 8 21:53:28 2025 +0900 docs : 로그인 usecase description 초기 부분을 수정합니다. 499229c
+[SYAAINN] Thu May 8 21:40:06 2025 +0900 docs : requirement list actor 명시 ed3e5e4
+[Minjae Son] Thu May 8 21:37:51 2025 +0900 Merge pull request #12 from SungeunP/docs/5-revoke f07bc00
+[Minjae Son] Thu May 8 21:37:42 2025 +0900 Merge branch 'syaainn' into docs/5-revoke 17e74f8
+[Minjae Son] Thu May 8 21:35:35 2025 +0900 Merge pull request #11 from SungeunP/docs/4-signup 7cc35bc
+[sungeunp] Thu May 8 21:12:50 2025 +0900 Update use case description - Add detail description 38f2dea
+[void_pete] Thu May 8 21:09:02 2025 +0900 refactor : 통계 기능 usecase diagram 수정, 정렬 기준 변경 extend 추가 aa1270d
+[void_pete] Thu May 8 21:08:32 2025 +0900 refactor : 통계 기능 usecase description 수정, Use case 분리에 따른 전체 대여 정보 조회와 정렬 기준 변경 분리 fabbd48
+[void_pete] Thu May 8 21:07:37 2025 +0900 refactor : 통계 기능 requirement list 수정, Use case 분리에 따라서 전체 대여 정보 조회와 정렬 기준 변경으로 분리 08ece9e
+[sungeunp] Thu May 8 20:54:58 2025 +0900 Update use case diagram - extend arrow of "대여소 삭제" 7dd27e2
+[SYAAINN] Thu May 8 20:54:54 2025 +0900 docs : usecase description에 actor 명시 ad86234
+[void_pete] Thu May 8 20:52:33 2025 +0900 refactor : 결제 및 요금조회 기능 requirement list 수정, 9번 설명에 Actor 추가 ac5473c
+[void_pete] Thu May 8 20:50:01 2025 +0900 refactor : 자전거 반납 및 식당 예약 서비스 연계 기능 usecase diagram 수정, 외부 이메일 시스템 추가 edffdaa
+[void_pete] Thu May 8 20:47:46 2025 +0900 refactor : 자전거 반납 및 식당 예약 서비스 연계 기능 usecase diagram 수정, 자전거 반납에 extend로 식당 추천 요청시 외부 식당 예약 서비스로 연결되도록 수정 38706d9
+[SYAAINN] Thu May 8 20:46:59 2025 +0900 docs : usecase description에 actor 명시, 재확인 메시지 출력 반영 b351e79
+[void_pete] Thu May 8 20:46:54 2025 +0900 refactor : 자전거 반납 및 식당 예약 서비스 연계 기능 usecase description 수정 d6c1be8
+[void_pete] Thu May 8 20:46:06 2025 +0900 refactor : 자전거 반납 및 식당 예약 서비스 연계 기능 requirement list 수정, 설명 구체화 d285cd1
+[SYAAINN] Thu May 8 20:43:36 2025 +0900 chore : usecase description에 actor 명시 47fbd13
+[void_pete] Thu May 8 20:38:14 2025 +0900 refactor : 통계 기능 usecase diagram 수정, Usecase 병합하고, 이름을 통계 기능에서 전체 대여 정보 정보 조회로 변경 1c1b799
+[void_pete] Thu May 8 20:37:21 2025 +0900 refactor : 통계 기능 usecase description 수정, Usecase 병합에 따라서 하나의 Description에서 설명하도록 변경 40588fb
+[void_pete] Thu May 8 20:36:31 2025 +0900 refactor : 통계 기능 requirement list 수정, Usecase 하나로 병합하여 requirement 설명 하나로 통합 671701f
+[void_pete] Thu May 8 20:26:50 2025 +0900 refactor : 결제 및 자전거 반납 requirement list 수정, Usecase 이름 결제에서 자전거 반납으로 변경 ed0f37c
+[void_pete] Thu May 8 20:26:20 2025 +0900 refactor : 결제 및 요금 조회 기능 usecase diagram 수정, 결제 Usecase 대신 자전거 반납 Usecase 사용 b73ac4d
+[void_pete] Thu May 8 20:19:04 2025 +0900 refactor : 자전거 대여 정보 조회 usecase description 설명 구체화 1b82cc7
+[void_pete] Thu May 8 19:43:23 2025 +0900 chore : 자전거 반납 및 식당 예약 서비스 연계 기능 requirement list 오타 수정 4f9db35
+[void_pete] Thu May 8 19:39:22 2025 +0900 refactor : 통계 기능 usecase diagram 수정, 통계 기능을 다른 화면으로 분리 2bbbc65
+[void_pete] Thu May 8 19:38:49 2025 +0900 refactor : 통계 기능 requirement list 수정, 통계 기능, 지역별 기준 정렬, 최근 정렬 기간 설정 분리 9305aeb
+[void_pete] Thu May 8 19:38:14 2025 +0900 refactor : 통계 기능 usecase description 수정, 통계 기능, 지역별 기준 정렬, 최근 정렬 기간 설정 분리 086939a
+[void_pete] Thu May 8 19:28:16 2025 +0900 refactor : 자전거 반납 및 식당 예약 서비스 연계 기능 usecase diagram 수정, QnA 답변에 따라서 식당 추천까지 외부 서비스에 맡기는 방식으로 수정 dbab780
+[void_pete] Thu May 8 19:24:41 2025 +0900 refactor : 자전거 반납 및 식당 예약 서비스 연계 기능 usecase description 수정, QnA 답변에 따라서 식당 추천까지 외부 서비스에 맡기는 방식으로 수정 e0cb3bc
+[void_pete] Thu May 8 19:20:42 2025 +0900 refactor : 자전거 대여 정보 조회 usecase description 설명 추가 e483a07
+[void_pete] Thu May 8 19:19:11 2025 +0900 refactor : 결제 및 요금 조회 기능 requirement list 수정, 결제와 요금 조회 기능 분리 6286834
+[void_pete] Thu May 8 19:17:39 2025 +0900 refactor : 결제 및 요금 조회 기능 usecase diagram 수정, 결제와 요금 조회 기능 분리 38e3f79
+[void_pete] Thu May 8 19:17:07 2025 +0900 refactor : 결제 및 요금 조회 기능 usecase description 수정, 결제와 요금 조회 기능 분리 b81aaa8
+[sungeunp] Wed May 7 02:27:06 2025 +0900 Write Use case description c9179a4
+[sungeunp] Wed May 7 02:26:57 2025 +0900 Write Use case diagram a0e8883
+[sungeunp] Wed May 7 02:26:46 2025 +0900 Write Requirement list c7e04fe
+[sungeunp] Wed May 7 02:12:33 2025 +0900 Write Use case description f1a4575
+[sungeunp] Wed May 7 02:12:22 2025 +0900 Write Use case diagram ef0f371
+[sungeunp] Wed May 7 02:12:08 2025 +0900 Write Requirement list 9840ba2
+[sungeunp] Wed May 7 01:51:18 2025 +0900 Write Use case description f57646d
+[sungeunp] Wed May 7 01:51:09 2025 +0900 Write Use case diagram 0f4f571
+[sungeunp] Wed May 7 01:50:57 2025 +0900 Write requirement list ddb87bb
+[ohhamma] Wed May 7 01:19:32 2025 +0900 refactor: use case description에 actor 명시 b2ea001
+[ohhamma] Wed May 7 01:18:08 2025 +0900 docs: 이용 내역 조회/삭제 use case description 작성 181370d
+[ohhamma] Wed May 7 01:17:04 2025 +0900 docs: 이용 내역 조회/삭제 use case diagram 작성 a86c7df
+[ohhamma] Wed May 7 01:08:29 2025 +0900 docs: 이용 내역 조회/삭제 requirement list 작성 f4a5156
+[ohhamma] Wed May 7 01:00:40 2025 +0900 refactor: 처음 actor action에 none 추가 992ce05
+[ohhamma] Wed May 7 00:39:03 2025 +0900 docs: 자전거 예약대기 정보 조회/취소 use case description 작성 1fdc0a6
+[void_pete] Wed May 7 00:31:00 2025 +0900 docs : 통계 기능 usecase diagram 작성 a2424b9
+[void_pete] Wed May 7 00:30:52 2025 +0900 docs : 통계 기능 usecase description 작성 5d8c707
+[void_pete] Wed May 7 00:30:35 2025 +0900 docs : 통계 기능 requirement list 작성 11b4667
+[void_pete] Wed May 7 00:18:34 2025 +0900 docs : 결제 및 요금 조회 기능 usecase diagram 작성 3023a5e
+[void_pete] Wed May 7 00:18:12 2025 +0900 docs : 결제 및 요금 조회 기능 usecase description 작성 7268013
+[void_pete] Wed May 7 00:17:49 2025 +0900 docs : 결제 및 요금 조회 기능 requirement list 작성 9cf97d7
+[ohhamma] Wed May 7 00:07:32 2025 +0900 docs: 자전거 예약대기 정보 조회/취소 use case diagram 작성 9d60aad
+[void_pete] Wed May 7 00:07:25 2025 +0900 docs : 자전거 반납 및 식당 예약 서비스 연계 기능 usecase diagram 작성 a33266c
+[void_pete] Wed May 7 00:07:14 2025 +0900 docs : 자전거 반납 및 식당 예약 서비스 연계 기능 usecase description 작성 ae191f2
+[void_pete] Wed May 7 00:06:58 2025 +0900 docs : 자전거 반납 및 식당 예약 서비스 연계 기능 requirement list 작성 700da67
+[ohhamma] Wed May 7 00:00:16 2025 +0900 docs: 자전거 예약대기 정보 조회/취소 requirement list 작성 f76695c
+[ohhamma] Tue May 6 23:56:09 2025 +0900 rename: 기능명이 들어가도록 파일명 변경 ef3b04b
+[ohhamma] Tue May 6 23:32:54 2025 +0900 rename: use case diagram 파일명 변경 20dbd17
+[ohhamma] Tue May 6 23:28:17 2025 +0900 chore: 오타 수정 11c8f67
+[ohhamma] Tue May 6 23:25:32 2025 +0900 docs: 자전거 등록/조회/삭제 use case description 작성 3f8518f
+[ohhamma] Tue May 6 23:23:59 2025 +0900 docs: 자전거 등록/조회/삭제 use case diagram 작성 60997ff
+[ohhamma] Tue May 6 23:01:56 2025 +0900 docs: 자전거 등록/조회/삭제 requirement list 작성 2e70ae7
+[SYAAINN] Tue May 6 22:39:44 2025 +0900 chore : 오타 수정 3f934fd
+[SYAAINN] Tue May 6 22:35:52 2025 +0900 docs : 로그인, 로그아웃 usecase description 작성 ed16376
+[SYAAINN] Tue May 6 22:35:37 2025 +0900 docs : 로그인, 로그아웃 usecase diagram 작성 de71f12
+[void_pete] Tue May 6 22:35:34 2025 +0900 docs : 자전거 대여 정보 조회 usecase diagram 작성 c3381fc
+[SYAAINN] Tue May 6 22:35:15 2025 +0900 docs : 로그인. 로그아웃 requirement list 작성 a37a36c
+[void_pete] Tue May 6 22:35:15 2025 +0900 docs : 자전거 대여 정보 조회 usecase description 작성 bef18c8
+[void_pete] Tue May 6 22:34:53 2025 +0900 docs : 자전거 대여 정보 조회 requirement list 작성 004627d
+[SYAAINN] Tue May 6 22:25:10 2025 +0900 docs : 회원탈퇴 usecase description 작성 6f56e5e
+[SYAAINN] Tue May 6 22:24:55 2025 +0900 docs : 회원탈퇴 usecase diagram 작성 dbc4759
+[SYAAINN] Tue May 6 22:24:40 2025 +0900 docs : 회원탈퇴 requirement list 작성 0ecf897
+[SYAAINN] Tue May 6 22:04:37 2025 +0900 docs : 회원가입 usecase diagram 작성 21319bc
+[SYAAINN] Tue May 6 19:23:53 2025 +0900 docs : 회원가입 usecase description 작성 8d93bfa
+[SYAAINN] Tue May 6 19:23:33 2025 +0900 docs : 회원가입 requirement list 작성 24c5850
+[SYAAINN] Tue May 6 16:07:38 2025 +0900 docs : requirment list, usecription description 파일 생성 1c1fa39
+[ohhamma] Tue May 6 13:41:37 2025 +0900 docs: 깃 pr 템플릿 추가 01e7098
+[ohhamma] Tue May 6 13:41:19 2025 +0900 docs: 깃 이슈 템플릿 추가 5d7c9e4
